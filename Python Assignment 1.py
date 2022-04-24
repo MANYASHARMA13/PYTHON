@@ -41,7 +41,7 @@ print('Part A-List after removing fourth element\n',list)
 list=['Red','Green','White','Black','Pink','Yellow']
 del list[3:4]
 list.insert(3,'Purple')
-print('Part B- Replacing black and pink with purple\n',list) 
+print('Part B- Replacing Black and Pink with Purple\n',list) 
 
       
 
